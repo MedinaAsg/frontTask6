@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page__h1{
+
+    color: red;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page__h1__nav__ul {
+    justify-content: center;
+    padding: 15px 0;
+    display: flex;
+    gap: 15px;
+    color: black;
+}
+.page__h1__nav__ul>li>a {
+    color: blueviolet;
+}
+.anasayfa{
+    text-align: center;
+}
+.anasayfa__h3 {
+    color: rgb(154, 14, 154);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.anasayfa__h3__p1{
+    font-family: 'Times New Roman', Times, serif; margin-top: 20px;
+}
+.anasayfa__h3__p2 {
+    font-family: 'Times New Roman', Times, serif; 
+    color: orange;    
+margin-top: 17px;
+
+}
+.anasayfa__li {
+    margin-top: 20px;
+}
